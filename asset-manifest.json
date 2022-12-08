@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/royal-reader/static/css/main.e6c13ad2.css",
-    "main.js": "/royal-reader/static/js/main.590ebb43.js",
+    "main.js": "/royal-reader/static/js/main.d2851a4e.js",
     "index.html": "/royal-reader/index.html",
     "main.e6c13ad2.css.map": "/royal-reader/static/css/main.e6c13ad2.css.map",
-    "main.590ebb43.js.map": "/royal-reader/static/js/main.590ebb43.js.map"
+    "main.d2851a4e.js.map": "/royal-reader/static/js/main.d2851a4e.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.590ebb43.js"
+    "static/js/main.d2851a4e.js"
   ]
 }
